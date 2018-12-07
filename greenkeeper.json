@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "All_data/package.json",
+        "package.json"
+      ]
+    }
+  }
+}
